@@ -8,6 +8,6 @@ The evolution of AI as a field and the increasing number of researchers and prac
 
    **Problem Statement** 
    
-   ​	Rossmann is one of the largest drugstore chains in Germany, with operations across Europe. As of 	2018, they have well over 3,900 stores in Europe with an annual turnover of 9 billion euros. My task is to predict the sales for a few identified stores on a given day.
+   ​Rossmann is one of the largest drugstore chains in Germany, with operations across Europe. As of 	2018, they have well over 3,900 stores in Europe with an annual turnover of 9 billion euros. My task is to predict the sales for a few identified stores on a given day.
 
 2. 
