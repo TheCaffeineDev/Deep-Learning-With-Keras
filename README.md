@@ -21,3 +21,16 @@ The evolution of AI as a field and the increasing number of researchers and prac
       The high-level problem statement is mentioned in the competition’s description page. It highlights the problem that deals with   predicting high-value customers for their business based on the operational interaction data and thereby helping the company effectively prioritize resources to generate more business and serve its customers better
 
       [**Solution**](https://github.com/TheCaffeineDev/Deep-Learning-With-Keras/blob/master/2.%20Classification%20With%20Keras.ipynb)
+ 
+ 3.  **CNN: Image Classification**
+
+     The dataset i have used is from Kaggle. It was uploaded by Kaggle user rhammel and has 32,000 labeled satellite images of airplanes. By “labeled” I mean that a human being has combed through the images, identified the regions that contain airplanes, and then neatly organized them in an easy to understand format. Itis available at https://www.kaggle.com/rhammell/planesnet/home
+      
+      **Problem Statement** 
+
+      The aim of this dataset is to help address the difficult task of detecting the location of airplanes in satellite images. Automating this process can be applied to many issues including monitoring airports for activity and traffic patterns, and defense intelligence.Aim is to building a ML pipeline to classify the presence of planes in satellite images using a Convolutional Neural Network (CNN).
+
+      [**Solution**](https://github.com/TheCaffeineDev/Deep-Learning-With-Keras/blob/master/3.%20CNN%20With%20Keras.ipynb)
+      
+      
+ 
