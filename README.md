@@ -24,7 +24,7 @@ The evolution of AI as a field and the increasing number of researchers and prac
  
  3.  **CNN: Image Classification**
 
-     The dataset i have used is from Kaggle. It was uploaded by Kaggle user rhammel and has 32,000 labeled satellite images of airplanes. By “labeled” I mean that a human being has combed through the images, identified the regions that contain airplanes, and then neatly organized them in an easy to understand format. Itis available at https://www.kaggle.com/rhammell/planesnet/home
+     The dataset i have used is from Kaggle. It was uploaded by Kaggle user rhammel and has 32,000 labeled satellite images of airplanes. By “labeled” I mean that a human being has combed through the images, identified the regions that contain airplanes, and then neatly organized them in an easy to understand format. It is available at https://www.kaggle.com/rhammell/planesnet/home
       
       **Problem Statement** 
 
