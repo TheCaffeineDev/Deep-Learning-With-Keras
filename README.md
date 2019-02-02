@@ -20,3 +20,4 @@ The evolution of AI as a field and the increasing number of researchers and prac
 
       The high-level problem statement is mentioned in the competition’s description page. It highlights the problem that deals with   predicting high-value customers for their business based on the operational interaction data and thereby helping the company effectively prioritize resources to generate more business and serve its customers better
 
+      [**Solution**](https://github.com/TheCaffeineDev/Deep-Learning-With-Keras/blob/master/2.%20Classification%20With%20Keras.ipynb)
