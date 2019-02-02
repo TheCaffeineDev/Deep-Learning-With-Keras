@@ -14,5 +14,4 @@ The evolution of AI as a field and the increasing number of researchers and prac
 
 2.  **Deep Neural Networks for Supervised Learning: Classification**
 
-   I have used the dataset provided for the “Red Hat Business Value” competition. This competition was hosted on Kaggle a few years back,    and the dataset is a really good business use case for
-   our study. The archived competition is available at www.kaggle.com/c/predicting-red-hat-business-value. 
+      I have used the dataset provided for the “Red Hat Business Value” competition. This competition was hosted on Kaggle a few years          back,and the dataset is a really good business use case for our study. The archived competition is available at               www.kaggle.com/c/predicting-red-hat-business-value. 
